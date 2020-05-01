@@ -16,6 +16,8 @@ Deployment can be on any web server or local file system.
 
 ## How To Contribute
 
+Please fork this repo and then issue pull requests for review
+
 ### Copyright
 
 Copyright.2020
