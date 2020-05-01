@@ -8,6 +8,10 @@ This is an example to show the different parts of Git and various commands using
 
 ## Purpose
 
+Main purpose is to provide simple examples for Git training 
+
 ## Deployment
+
+Deployment can be on any web server or local file system.
 
 ## How To Contribute
