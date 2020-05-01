@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Todd j.todd@dc.com @jokersucks 
 
 # THANKS
 
